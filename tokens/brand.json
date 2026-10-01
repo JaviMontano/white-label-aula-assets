@@ -1,0 +1,12 @@
+{
+  "edition": "white-label",
+  "name": "Your brand",
+  "colors": {
+    "ink": "#152238",
+    "accent": "#334155",
+    "canvas": "#f8fafc",
+    "surface": "#ffffff"
+  },
+  "source": "Authored local semantic tokens; original neutral palette",
+  "license": "MIT"
+}
