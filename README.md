@@ -1,11 +1,5 @@
-# White-label Aula assets
+# white-label-aula-assets 1.1.0
 
-Original offline HTML learning/presentation assets. Version **1.0.0**. Compatible with the original `frames-aula-v1` renderer; not a mirror of Amaris or Aula internals.
+256 original semantic icons and 160 original scene compositions. Core: 32 icons / 16 scenes. Selected assets compile into offline HTML. Scene text is editable through title/a/b/c/d. No numbers or research claims are animated.
 
-Includes five original SVG scenes, semantic tokens, accessible CSS/JS and neutral multilingual brief templates. Download the release archive and verify SHA256SUMS before installing. The runtime works without this bank.
-
-MetodologIA and white-label banks are separate: https://github.com/JaviMontano/white-label-aula-assets. No client content, logos, research claims or private inputs are included. Code/assets/templates MIT; brand names remain their owners' marks.
-
-Scenes have no animated numbers. Motion in the renderer pauses on request and with reduced motion. Verify UI in the target browser before publishing a produced piece. Examples are RENDERED_DRAFT, not human-approved deliverables.
-
-The source generation script belongs to Frames; this release distributes only the allowlisted original assets. manifest.json fixes every asset hash; SHA256SUMS fixes the release ZIP.
+Icons/scenes/code MIT; fonts retain OFL-1.1 and their bundled copyright notices. `originalOnly` applies only to icons/scenes. Gallery previews ship separately. Produced examples remain RENDERED_DRAFT.
